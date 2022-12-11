@@ -1,0 +1,7 @@
+﻿  Proiect SDA bun.cpp
+  RepositoryEvenimente.cpp
+  ServiceAdmin.cpp
+  UI.cpp
+  Generating Code...
+C:\Users\robi_\source\repos\Proiect SDA bun\Proiect SDA bun\ArboreBinar.h(60): warning C4715: 'ArboreBinar<Eveniment>::search': not all control paths return a value
+  Proiect SDA bun.vcxproj -> C:\Users\robi_\source\repos\Proiect SDA bun\x64\Debug\Proiect SDA bun.exe
